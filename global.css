@@ -1,0 +1,91 @@
+.paglog{
+    display: flex !important;
+    justify-content: space-between!important;
+    margin: 10px!important;
+}
+
+
+.paglog .font{
+    font-size: 25px;
+    margin: 10px;
+}
+
+.sair{
+    display: flex;
+    font-size: 45px;
+    cursor: pointer;
+}
+
+.img{
+    width: 15%;
+    margin: auto;
+    
+}
+.left{
+    background-color: white !important;
+    background-image: none!important;
+}
+.right {
+    background-color: white !important;
+    background-image: none!important;
+}
+.glyphicon {
+    color: black!important;
+}
+
+.solid {
+    text-align: center;
+    font-size: 50px;
+}
+
+.faicon{
+    cursor: pointer;
+}
+
+.striped{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.striped th, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .btn-floating{
+      cursor: pointer;
+  }
+
+
+.item{
+
+    height: 165px!important;
+    margin: 10px;
+}
+
+#myCarousel{
+    position: inherit !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mid{
+    display: inline-block;
+    padding: 32px 48px 0px 48px;
+    border: 1px;
+    margin-top: 150px;
+    border-radius: 10px;
+
+}
